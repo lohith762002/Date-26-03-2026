@@ -1,2 +1,3 @@
 Today i am learning about git in wipro training.
-Here i am doing some kind of the of assignments today
+Here i am doing some kind of the of assignments today.
+now i am doing the merge operation right now with the hotfix branch to main branch.
